@@ -1,4 +1,3 @@
-// Your code here
 let table = document.getElementsByTagName("table")[0];
 let chosenColor = "Red";
 document.getElementById("add-row").addEventListener("click", makeRow);
